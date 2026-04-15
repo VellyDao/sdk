@@ -1,0 +1,13 @@
+{
+  "name": "velly",
+  "version": "1.0.0",
+  "description": "Velly decentralized platform",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
